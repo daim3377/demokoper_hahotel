@@ -1,0 +1,427 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB21BDE-A4F6-41B4-8936-D0BA23E25AB0}|Rukn.DataBase\\DEMO_KOZLOV.DataBase.csproj|c:\\users\\zver\\desktop\\\u0434\u044D\\demoapp\\rukn.database\\abstractions\\iupgradeabledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB21BDE-A4F6-41B4-8936-D0BA23E25AB0}|Rukn.DataBase\\DEMO_KOZLOV.DataBase.csproj|solutionrelative:rukn.database\\abstractions\\iupgradeabledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB21BDE-A4F6-41B4-8936-D0BA23E25AB0}|Rukn.DataBase\\DEMO_KOZLOV.DataBase.csproj|c:\\users\\zver\\desktop\\\u0434\u044D\\demoapp\\rukn.database\\abstractions\\idbtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB21BDE-A4F6-41B4-8936-D0BA23E25AB0}|Rukn.DataBase\\DEMO_KOZLOV.DataBase.csproj|solutionrelative:rukn.database\\abstractions\\idbtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB21BDE-A4F6-41B4-8936-D0BA23E25AB0}|Rukn.DataBase\\DEMO_KOZLOV.DataBase.csproj|c:\\users\\zver\\desktop\\\u0434\u044D\\demoapp\\rukn.database\\abstractions\\idbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB21BDE-A4F6-41B4-8936-D0BA23E25AB0}|Rukn.DataBase\\DEMO_KOZLOV.DataBase.csproj|solutionrelative:rukn.database\\abstractions\\idbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB21BDE-A4F6-41B4-8936-D0BA23E25AB0}|Rukn.DataBase\\DEMO_KOZLOV.DataBase.csproj|c:\\users\\zver\\desktop\\\u0434\u044D\\demoapp\\rukn.database\\abstractions\\idbconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB21BDE-A4F6-41B4-8936-D0BA23E25AB0}|Rukn.DataBase\\DEMO_KOZLOV.DataBase.csproj|solutionrelative:rukn.database\\abstractions\\idbconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB21BDE-A4F6-41B4-8936-D0BA23E25AB0}|Rukn.DataBase\\Rukn.DataBase.csproj|c:\\users\\zver\\desktop\\\u0434\u044D\\demoapp\\rukn.database\\abstractions\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB21BDE-A4F6-41B4-8936-D0BA23E25AB0}|Rukn.DataBase\\Rukn.DataBase.csproj|solutionrelative:rukn.database\\abstractions\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB21BDE-A4F6-41B4-8936-D0BA23E25AB0}|Rukn.DataBase\\DEMO_KOZLOV.DataBase.csproj|c:\\users\\zver\\desktop\\\u0434\u044D\\demoapp\\rukn.database\\extensions\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB21BDE-A4F6-41B4-8936-D0BA23E25AB0}|Rukn.DataBase\\DEMO_KOZLOV.DataBase.csproj|solutionrelative:rukn.database\\extensions\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB21BDE-A4F6-41B4-8936-D0BA23E25AB0}|Rukn.DataBase\\DEMO_KOZLOV.DataBase.csproj|c:\\users\\zver\\desktop\\\u0434\u044D\\demoapp\\rukn.database\\models\\upgradeabledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB21BDE-A4F6-41B4-8936-D0BA23E25AB0}|Rukn.DataBase\\DEMO_KOZLOV.DataBase.csproj|solutionrelative:rukn.database\\models\\upgradeabledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB21BDE-A4F6-41B4-8936-D0BA23E25AB0}|Rukn.DataBase\\DEMO_KOZLOV.DataBase.csproj|c:\\users\\zver\\desktop\\\u0434\u044D\\demoapp\\rukn.database\\models\\transactiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB21BDE-A4F6-41B4-8936-D0BA23E25AB0}|Rukn.DataBase\\DEMO_KOZLOV.DataBase.csproj|solutionrelative:rukn.database\\models\\transactiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB21BDE-A4F6-41B4-8936-D0BA23E25AB0}|Rukn.DataBase\\DEMO_KOZLOV.DataBase.csproj|c:\\users\\zver\\desktop\\\u0434\u044D\\demoapp\\rukn.database\\models\\listdbtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB21BDE-A4F6-41B4-8936-D0BA23E25AB0}|Rukn.DataBase\\DEMO_KOZLOV.DataBase.csproj|solutionrelative:rukn.database\\models\\listdbtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB21BDE-A4F6-41B4-8936-D0BA23E25AB0}|Rukn.DataBase\\DEMO_KOZLOV.DataBase.csproj|c:\\users\\zver\\desktop\\\u0434\u044D\\demoapp\\rukn.database\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB21BDE-A4F6-41B4-8936-D0BA23E25AB0}|Rukn.DataBase\\DEMO_KOZLOV.DataBase.csproj|solutionrelative:rukn.database\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C5574E-5DFC-4102-82A7-BA3628E4EB98}|HaHotel\\DemoKozlov.csproj|c:\\users\\zver\\desktop\\\u0434\u044D\\demoapp\\hahotel\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C5574E-5DFC-4102-82A7-BA3628E4EB98}|HaHotel\\DemoKozlov.csproj|solutionrelative:hahotel\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C5574E-5DFC-4102-82A7-BA3628E4EB98}|HaHotel\\DemoKozlov.csproj|c:\\users\\zver\\desktop\\\u0434\u044D\\demoapp\\hahotel\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{22C5574E-5DFC-4102-82A7-BA3628E4EB98}|HaHotel\\DemoKozlov.csproj|solutionrelative:hahotel\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C5574E-5DFC-4102-82A7-BA3628E4EB98}|HaHotel\\DemoKozlov.csproj|c:\\users\\zver\\desktop\\\u0434\u044D\\demoapp\\hahotel\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C5574E-5DFC-4102-82A7-BA3628E4EB98}|HaHotel\\DemoKozlov.csproj|solutionrelative:hahotel\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C5574E-5DFC-4102-82A7-BA3628E4EB98}|HaHotel\\HaHotel.csproj|c:\\users\\zver\\desktop\\\u0434\u044D\\demoapp\\hahotel\\models\\listelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C5574E-5DFC-4102-82A7-BA3628E4EB98}|HaHotel\\HaHotel.csproj|solutionrelative:hahotel\\models\\listelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C5574E-5DFC-4102-82A7-BA3628E4EB98}|HaHotel\\DemoKozlov.csproj|c:\\users\\zver\\desktop\\\u0434\u044D\\demoapp\\hahotel\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C5574E-5DFC-4102-82A7-BA3628E4EB98}|HaHotel\\DemoKozlov.csproj|solutionrelative:hahotel\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C5574E-5DFC-4102-82A7-BA3628E4EB98}|HaHotel\\DemoKozlov.csproj|c:\\users\\zver\\desktop\\\u0434\u044D\\demoapp\\hahotel\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C5574E-5DFC-4102-82A7-BA3628E4EB98}|HaHotel\\DemoKozlov.csproj|solutionrelative:hahotel\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C5574E-5DFC-4102-82A7-BA3628E4EB98}|HaHotel\\DemoKozlov.csproj|c:\\users\\zver\\desktop\\\u0434\u044D\\demoapp\\hahotel\\models\\simulatorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C5574E-5DFC-4102-82A7-BA3628E4EB98}|HaHotel\\DemoKozlov.csproj|solutionrelative:hahotel\\models\\simulatorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD29BC01-3E6B-7E3C-8940-A61C0C42100C}|Utilities\\Utilities.csproj|c:\\users\\zver\\desktop\\\u0434\u044D\\demoapp\\utilities\\abstractions\\iresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD29BC01-3E6B-7E3C-8940-A61C0C42100C}|Utilities\\Utilities.csproj|solutionrelative:utilities\\abstractions\\iresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD29BC01-3E6B-7E3C-8940-A61C0C42100C}|Utilities\\Utilities.csproj|c:\\users\\zver\\desktop\\\u0434\u044D\\demoapp\\utilities\\abstractions\\ierrorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD29BC01-3E6B-7E3C-8940-A61C0C42100C}|Utilities\\Utilities.csproj|solutionrelative:utilities\\abstractions\\ierrorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C5574E-5DFC-4102-82A7-BA3628E4EB98}|HaHotel\\HaHotel.csproj|c:\\users\\zver\\desktop\\\u0434\u044D\\demoapp\\hahotel\\services\\databaseconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C5574E-5DFC-4102-82A7-BA3628E4EB98}|HaHotel\\HaHotel.csproj|solutionrelative:hahotel\\services\\databaseconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C5574E-5DFC-4102-82A7-BA3628E4EB98}|HaHotel\\HaHotel.csproj|c:\\users\\zver\\desktop\\\u0434\u044D\\demoapp\\hahotel\\services\\initilizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C5574E-5DFC-4102-82A7-BA3628E4EB98}|HaHotel\\HaHotel.csproj|solutionrelative:hahotel\\services\\initilizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C5574E-5DFC-4102-82A7-BA3628E4EB98}|HaHotel\\HaHotel.csproj|c:\\users\\zver\\desktop\\\u0434\u044D\\demoapp\\hahotel\\database\\accesslevelstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C5574E-5DFC-4102-82A7-BA3628E4EB98}|HaHotel\\HaHotel.csproj|solutionrelative:hahotel\\database\\accesslevelstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C5574E-5DFC-4102-82A7-BA3628E4EB98}|HaHotel\\HaHotel.csproj|c:\\users\\zver\\desktop\\\u0434\u044D\\demoapp\\hahotel\\database\\gueststable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C5574E-5DFC-4102-82A7-BA3628E4EB98}|HaHotel\\HaHotel.csproj|solutionrelative:hahotel\\database\\gueststable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C5574E-5DFC-4102-82A7-BA3628E4EB98}|HaHotel\\HaHotel.csproj|c:\\users\\zver\\desktop\\\u0434\u044D\\demoapp\\hahotel\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C5574E-5DFC-4102-82A7-BA3628E4EB98}|HaHotel\\HaHotel.csproj|solutionrelative:hahotel\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUpgradeableDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\Rukn.DataBase\\Abstractions\\IUpgradeableDBContext.cs",
+              "RelativeDocumentMoniker": "Rukn.DataBase\\Abstractions\\IUpgradeableDBContext.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\Rukn.DataBase\\Abstractions\\IUpgradeableDBContext.cs",
+              "RelativeToolTip": "Rukn.DataBase\\Abstractions\\IUpgradeableDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:46:17.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDBTable.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\Rukn.DataBase\\Abstractions\\IDBTable.cs",
+              "RelativeDocumentMoniker": "Rukn.DataBase\\Abstractions\\IDBTable.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\Rukn.DataBase\\Abstractions\\IDBTable.cs",
+              "RelativeToolTip": "Rukn.DataBase\\Abstractions\\IDBTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:46:11.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\Rukn.DataBase\\Abstractions\\IDBContext.cs",
+              "RelativeDocumentMoniker": "Rukn.DataBase\\Abstractions\\IDBContext.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\Rukn.DataBase\\Abstractions\\IDBContext.cs",
+              "RelativeToolTip": "Rukn.DataBase\\Abstractions\\IDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:46:09.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDBConnector.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\Rukn.DataBase\\Abstractions\\IDBConnector.cs",
+              "RelativeDocumentMoniker": "Rukn.DataBase\\Abstractions\\IDBConnector.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\Rukn.DataBase\\Abstractions\\IDBConnector.cs",
+              "RelativeToolTip": "Rukn.DataBase\\Abstractions\\IDBConnector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:46:07.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\Rukn.DataBase\\Extensions\\DBHelper.cs",
+              "RelativeDocumentMoniker": "Rukn.DataBase\\Extensions\\DBHelper.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\Rukn.DataBase\\Extensions\\DBHelper.cs",
+              "RelativeToolTip": "Rukn.DataBase\\Extensions\\DBHelper.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:42:39.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpgradeableDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\Rukn.DataBase\\Models\\UpgradeableDBContext.cs",
+              "RelativeDocumentMoniker": "Rukn.DataBase\\Models\\UpgradeableDBContext.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\Rukn.DataBase\\Models\\UpgradeableDBContext.cs",
+              "RelativeToolTip": "Rukn.DataBase\\Models\\UpgradeableDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:42:35.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\Rukn.DataBase\\Models\\TransactionDBContext.cs",
+              "RelativeDocumentMoniker": "Rukn.DataBase\\Models\\TransactionDBContext.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\Rukn.DataBase\\Models\\TransactionDBContext.cs",
+              "RelativeToolTip": "Rukn.DataBase\\Models\\TransactionDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:42:33.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListDBTable.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\Rukn.DataBase\\Models\\ListDBTable.cs",
+              "RelativeDocumentMoniker": "Rukn.DataBase\\Models\\ListDBTable.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\Rukn.DataBase\\Models\\ListDBTable.cs",
+              "RelativeToolTip": "Rukn.DataBase\\Models\\ListDBTable.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:41:24.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\Rukn.DataBase\\Models\\DBContext.cs",
+              "RelativeDocumentMoniker": "Rukn.DataBase\\Models\\DBContext.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\Rukn.DataBase\\Models\\DBContext.cs",
+              "RelativeToolTip": "Rukn.DataBase\\Models\\DBContext.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:41:22.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\Rukn.DataBase\\Abstractions\\IDataBase.cs",
+              "RelativeDocumentMoniker": "Rukn.DataBase\\Abstractions\\IDataBase.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\Rukn.DataBase\\Abstractions\\IDataBase.cs",
+              "RelativeToolTip": "Rukn.DataBase\\Abstractions\\IDataBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:06:04.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\HaHotel\\App.xaml.cs",
+              "RelativeDocumentMoniker": "HaHotel\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\HaHotel\\App.xaml.cs",
+              "RelativeToolTip": "HaHotel\\App.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:55:15.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\HaHotel\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "HaHotel\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\HaHotel\\AssemblyInfo.cs",
+              "RelativeToolTip": "HaHotel\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:55:07.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\HaHotel\\App.xaml",
+              "RelativeDocumentMoniker": "HaHotel\\App.xaml",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\HaHotel\\App.xaml",
+              "RelativeToolTip": "HaHotel\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-29T12:54:50.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\HaHotel\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "HaHotel\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\HaHotel\\Models\\Reservation.cs",
+              "RelativeToolTip": "HaHotel\\Models\\Reservation.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:54:39.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\HaHotel\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "HaHotel\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\HaHotel\\Models\\Room.cs",
+              "RelativeToolTip": "HaHotel\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:54:38.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SimulatorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\HaHotel\\Models\\SimulatorResponse.cs",
+              "RelativeDocumentMoniker": "HaHotel\\Models\\SimulatorResponse.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\HaHotel\\Models\\SimulatorResponse.cs",
+              "RelativeToolTip": "HaHotel\\Models\\SimulatorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:54:33.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\Utilities\\Abstractions\\IResponse.cs",
+              "RelativeDocumentMoniker": "Utilities\\Abstractions\\IResponse.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\Utilities\\Abstractions\\IResponse.cs",
+              "RelativeToolTip": "Utilities\\Abstractions\\IResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:54:05.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IErrorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\Utilities\\Abstractions\\IErrorHandler.cs",
+              "RelativeDocumentMoniker": "Utilities\\Abstractions\\IErrorHandler.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\Utilities\\Abstractions\\IErrorHandler.cs",
+              "RelativeToolTip": "Utilities\\Abstractions\\IErrorHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:54:03.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ListElement.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\HaHotel\\Models\\ListElement.cs",
+              "RelativeDocumentMoniker": "HaHotel\\Models\\ListElement.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\HaHotel\\Models\\ListElement.cs",
+              "RelativeToolTip": "HaHotel\\Models\\ListElement.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:44:07.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GuestsTable.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\HaHotel\\Database\\GuestsTable.cs",
+              "RelativeDocumentMoniker": "HaHotel\\Database\\GuestsTable.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\HaHotel\\Database\\GuestsTable.cs",
+              "RelativeToolTip": "HaHotel\\Database\\GuestsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:52:56.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AccessLevelsTable.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\HaHotel\\Database\\AccessLevelsTable.cs",
+              "RelativeDocumentMoniker": "HaHotel\\Database\\AccessLevelsTable.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\HaHotel\\Database\\AccessLevelsTable.cs",
+              "RelativeToolTip": "HaHotel\\Database\\AccessLevelsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:50:45.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SessionService.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\HaHotel\\Services\\SessionService.cs",
+              "RelativeDocumentMoniker": "HaHotel\\Services\\SessionService.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\HaHotel\\Services\\SessionService.cs",
+              "RelativeToolTip": "HaHotel\\Services\\SessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:47:23.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InitilizeService.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\HaHotel\\Services\\InitilizeService.cs",
+              "RelativeDocumentMoniker": "HaHotel\\Services\\InitilizeService.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\HaHotel\\Services\\InitilizeService.cs",
+              "RelativeToolTip": "HaHotel\\Services\\InitilizeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:47:01.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DataBaseConnector.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\HaHotel\\Services\\DataBaseConnector.cs",
+              "RelativeDocumentMoniker": "HaHotel\\Services\\DataBaseConnector.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\\u0414\u042D\\DemoApp\\HaHotel\\Services\\DataBaseConnector.cs",
+              "RelativeToolTip": "HaHotel\\Services\\DataBaseConnector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:46:46.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
